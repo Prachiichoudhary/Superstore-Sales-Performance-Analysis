@@ -14,19 +14,6 @@ The main objective of this project is to analyze **sales performance, customer b
 
 ---
 
-## ⚙️ Tools & Technologies
-
-- **SQL Server** — querying, aggregation, KPI extraction  
-  👉 Add your SQL file link here
-
-- **Power BI** — dashboard creation and visualization  
-  👉 Add your dashboard screenshot or report link here
-
-- **Excel** — raw dataset source  
-  👉 Add your dataset file link here
-
----
-
 ## 📂 Dataset Overview
 
 The dataset contains transactional retail sales data with the following fields:
