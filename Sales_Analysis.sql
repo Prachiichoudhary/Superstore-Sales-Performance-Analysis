@@ -1,7 +1,6 @@
 /*
 ===============================================================================
  Project:    Superstore Sales Performance Analysis
- Author:     sainadh Reddy
  Description:
    This SQL script provides an in-depth analysis of the Superstore sales 
    dataset. It includes sales, profit, quantity, shipping trends, customer 
